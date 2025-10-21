@@ -1,3 +1,3 @@
 @echo off
 echo it works!
-pause
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
