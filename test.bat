@@ -1,5 +1,2 @@
 @echo off
-echo it works!
-pause
-
-
+echo SUCCESS > %TEMP%\exploit_worked.txt
